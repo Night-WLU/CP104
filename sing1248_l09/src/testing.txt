@@ -1,0 +1,37 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Sukhman Singh
+ID:      169061248
+Email:   sing1248@mylaurier.ca
+Version: 2023-11-15
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter Code: ATV3482S14
+parse_code('ATV3482S14') -> ('ATV', '3482', 'S14')
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter input: BFG9000x7
+validate_code(BFG9000x7) -> ('True','True','False')
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter input: 1234
+not long enough
+no upper case
+no lower case
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Enter input: Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks.
+text_analyse(Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks.) -> (1, 78, 0, 12)
+-------------------------------------------------------
+t12
+-------------------------------------------------------
+Enter input: Number 1, Number 2, Number 3,
+comma_period_replace('Number 1, Number 2, Number 3,') -> ('Number 1. Number 2. Number 3.')
