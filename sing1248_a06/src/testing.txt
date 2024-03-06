@@ -1,0 +1,98 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Sukhman Singh
+ID:      169061248
+Email:   sing1248@mylaurier.ca
+Version: 2023-11-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the winning team: purple
+Enter the winning team: gold
+Enter the winning team: white
+Enter the winning team: red
+Enter the winning team: 
+(1, 1)
+
+Enter the winning team: purple
+Enter the winning team: purple
+Enter the winning team: purple
+Enter the winning team: gold
+Enter the winning team: white
+Enter the winning team: white
+Enter the winning team: white
+Enter the winning team: 
+(3, 1)
+
+Enter the winning team: red
+Enter the winning team: white
+Enter the winning team: blue
+Enter the winning team: 
+(0, 0)
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter num: 7
+detect_prime(7) -> True
+
+Enter num: 3
+detect_prime(7) -> True
+
+Enter num: 9
+detect_prime(9) -> False
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Principal: $750
+Interest Rate: 8.50
+Monthly Payment: $200
+Month Interest   Payment   Balance
+    1     5.31    200.00    555.31
+    2     3.93    200.00    359.25
+    3     2.54    200.00    161.79
+    4     1.15    162.94      0.00
+
+Principal: $100
+Interest Rate: 10
+Monthly Payment: $50
+Month Interest   Payment   Balance
+    1     0.83     50.00     50.83
+    2     0.42     50.00      1.26
+    3     0.01      1.27      0.00
+
+Principal: $1000
+Interest Rate: 10
+Monthly Payment: $200
+Month Interest   Payment   Balance
+    1     8.33    200.00    808.33
+    2     6.74    200.00    615.07
+    3     5.13    200.00    420.20
+    4     3.50    200.00    223.70
+    5     1.86    200.00     25.56
+    6     0.21     25.77      0.00
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter digit: 1248
+count_of_digits(1248) -> 4
+
+Enter digit: -1
+count_of_digits(-1) -> 1
+
+Enter digit: -1248
+count_of_digits(-1248) -> 4
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter Factor: 9
+factor_summation(9) -> 4
+
+Enter Factor: 6
+factor_summation(6) -> 6
+
+Enter Factor: 12
+factor_summation(12) -> 16

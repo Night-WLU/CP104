@@ -1,0 +1,80 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Sukhman Singh
+ID:      169061248
+Email:   sing1248@mylaurier.ca
+Version: 2023-10-25
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the day number: 2
+Monday
+
+Enter the day number: 9
+Error
+
+Enter the day number: 1
+Sunday
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter Air Quality Index: -200
+Pollution: Error
+
+Enter Air Quality Index: 200
+Pollution: Unhealthy
+
+Enter Air Quality Index: 500
+Pollution: Hazardous
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter Value 1: -8
+Enter Value 2: 12
+Enter Value 3: 20
+Average: 16.00
+
+Enter Value 1: 7
+Enter Value 2: 2
+Enter Value 3: 7
+Average: 7.00
+
+Enter Value 1: 40.01
+Enter Value 2: 423.32
+Enter Value 3: 1.69
+Average: 231.66
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter color 1: green
+Enter color 2: red
+Color: yellow
+
+Enter color 1: red
+Enter color 2: green
+Color: yellow
+
+Enter color 1: blue
+Enter color 2: blue
+Color: blue
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter Number: 15
+Zip
+
+Enter Number: -43
+Zip
+
+Enter Number: 14
+Hoo Rah
+
+Enter Number: 22
+Hoo
+
+Enter Number: 21
+Rah

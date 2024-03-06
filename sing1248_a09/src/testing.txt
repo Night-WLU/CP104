@@ -1,0 +1,48 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Sukhman Singh
+ID:      169061248
+Email:   sing1248@mylaurier.ca
+Version: 2023-12-01
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+input file: students.txt 
+output:
+Patel,Bina,820000095,54
+Xu,Weilin,820000046,68
+Santos,Jose,820000023,73
+Brown,David,820000000,92
+Pavlova,Danica,820000037,71
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+[10, 20, 30, 40, 50, 60, 90, 80, 70, 11, 22, 13, 14, 14, 20]
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+input file: addresses.txt
+output: 50 114 15 45 15
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Numbered file for wilde.txt file:
+[0] Quotes from Oscar Wilde - 1854 - 1900
+[1] 
+[2] "Always forgive your enemies; nothing annoys them so much."
+[3] 
+[4] "Be yourself; everyone else is already taken."
+[5] 
+[6] "To live is the rarest thing in the world. Most people exist, that is all."
+[7]  
+[8] "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught."
+[9] 
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+input file: students_test.txt 
+output: 95  46  61.0

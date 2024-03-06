@@ -1,0 +1,66 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Sukhman Singh
+ID:      169061248
+Email:   sing1248@mylaurier.ca
+Version: 2023-11-25
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter Sentence: StopAndSmellTheRoses
+Stop and smell the roses
+
+Enter Sentence: IAmSoGoodAtCoding
+I am so good at coding
+
+Enter Sentence: MrBrownIsAwesome
+Mr brown is awesome
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter word: holy
+holies
+
+Enter word: octopus
+octopuses
+
+Enter word: Boy
+Boys
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter word 1: ing
+Enter word  2: driving
+ing, driving -> ing
+
+Enter word 1: abc
+Enter word  2: ABC
+abc, ABC -> 
+
+Enter word 1: cats
+Enter word  2: rats
+cats, rats -> ats
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter ISBN: 123-456-789-00-12
+valid_isbn(123-456-789-00-12) -> False
+
+Enter ISBN: 978-456-789-00-12
+valid_isbn(978-456-789-00-12) -> False
+
+Enter ISBN: 978-456-789-000-2
+valid_isbn(978-456-789-000-2) -> True
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+has_word_chain(['camel', 'leopard', 'dog', 'giraffe', 'elephant']) -> True
+
+has_word_chain(['joke', 'Elephant', 'truck', 'kin', 'Nigeria']) -> True
+
+has_word_chain(['joke', 'Elephant', 'truck', 'king', 'Nigeria']) -> False

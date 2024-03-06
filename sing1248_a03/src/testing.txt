@@ -1,0 +1,80 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Sukhman Singh
+ID:      169061248
+Email:   sing1248@mylaurier.ca
+Version: 2023-10-18
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+input: 100000
+output: 2.295684113865932
+
+input: 12345000
+output: 283.40220385674934
+
+input: 6000
+output: 0.13774104683195593
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter Width: 4
+Enter Length: 100
+Enter Speed: 10
+Time:40.0 seconds
+
+Enter Width: 4
+Enter Length: 100
+Enter Speed: 4
+Time:100.0 seconds
+
+Enter Width: 20
+Enter Length: 50
+Enter Speed: 4
+Time:250.0 seconds
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter Date: 19780923
+Date: (1978, 9, 23)
+
+Enter Date: 19621025
+Date: (1962, 10, 25)
+
+Enter Date: 20010101
+Date: (2001, 1, 1)
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter numerator for fraction 1: 1
+Enter denum for fraction 1: 2
+Enter numerator for fraction 2: 3
+Enter denum for fraction 2: 4
+(3, 8, 0.375)
+
+Enter numerator for fraction 1: 2
+Enter denum for fraction 1: 2
+Enter numerator for fraction 2: 2
+Enter denum for fraction 2: 2
+(4, 4, 1.0)
+
+Enter numerator for fraction 1: 4
+Enter denum for fraction 1: 4
+Enter numerator for fraction 2: 2
+Enter denum for fraction 2: 2
+(8, 8, 1.0)
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter Time: 15
+Distance: 1102.5
+
+Enter Time: 10
+Distance: 490.00
+
+Enter Time: 5
+Distance: 122.50
