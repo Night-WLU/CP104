@@ -2,7 +2,7 @@
 -------------------------------------------------------
 [program description]
 -------------------------------------------------------
-Author: 
+Author: Sukhman Singh
 ID:      
 Email:   sing1248@mylaurier.ca
 __updated__ = "2023-09-17"
